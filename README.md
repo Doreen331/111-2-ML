@@ -37,4 +37,7 @@
 
 比賽連結：https://www.kaggle.com/competitions/playground-series-s3e2/overview
 
+和上課內容的關聯性&延伸學習
+=============
+
 
