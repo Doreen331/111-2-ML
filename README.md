@@ -42,7 +42,7 @@
 
 比賽結果＆推測改善方式
 =============
-<img width="1090" alt="截圖 2023-04-16 下午5 50 56" src="https://user-images.githubusercontent.com/113498713/232291302-8228fdc3-f31f-4a31-b263-72384b64c06f.png">
+<img width="1079" alt="kaggle" src="https://user-images.githubusercontent.com/113498713/232303364-659fa5d3-f031-425c-b364-24375cdaab20.png">
 
 推測改善方式：除了在code裡我嘗試的改善方式外，我認為還有其他可以改善的方法  
 我參考了一些分數高的程式碼後，發現他們所drop掉的每一個欄位都是經過一些圖表或是統計方式所觀察過後才決定的，  
